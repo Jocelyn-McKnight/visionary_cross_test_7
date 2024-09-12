@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>3D Model Viewer</title>
-    <script type="text/javascript" src="src/nexus.js"></script>
-    <script type="text/javascript" src="src/3dhop.js"></script>
+    <script type="text/javascript" src="js/nexus.js"></script>
+    <script type="text/javascript" src="js/3dhop.js"></script>
     <link rel="stylesheet" type="text/css" href="src/3dhop.css">
 </head>
 <body>
