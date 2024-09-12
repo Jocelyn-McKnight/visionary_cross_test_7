@@ -16,7 +16,7 @@
         // Basic configuration for 3DHOP
         var viewer = new Viewer('hop-container');
         viewer.setBackgroundColor(0.8, 0.8, 0.8, 1);
-        viewer.addModel('Raven_Ruthwell_Cross_small.ply');
+        viewer.addModel('models/your_model_name.ply');
     </script>
 </body>
 </html>
