@@ -6,7 +6,7 @@
     <title>3D Model Viewer</title>
     <script type="text/javascript" src="js/nexus.js"></script>
     <script type="text/javascript" src="js/3dhop.js"></script>
-    <link rel="stylesheet" type="text/css" href="src/3dhop.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet/3dhop.css">
 </head>
 <body>
     <h1>3D Model Viewer</h1>
